@@ -46,9 +46,10 @@ function App() {
     window.location.href = 'https://wa.me/918270051985?text=Hi%20Abith!';
   };
 
-  const handleDownloadCV = () => {
-    window.open('https://drive.google.com/uc?export=download&id=1d-6-7Em1z4h-eIicKhpY2CpM2meAluUr', '_blank');
-  };
+ const handleDownloadCV = () => {
+  window.open('https://github.com/Aabith124/resume/raw/main/Mohamed_Abith_Resume.pdf', '_blank');
+};
+
 
   return (
     <div className="App">

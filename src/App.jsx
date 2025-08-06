@@ -25,8 +25,11 @@ function App() {
     setIsMobileMenuOpen(!isMobileMenuOpen);
     if (!isMobileMenuOpen) {
       document.body.style.overflow = 'hidden';
+      document.querySelector(".menu-btn").style.display = "none";
+
     } else {
       document.body.style.overflow = 'auto';
+      document.querySelector(".menu-btn").style.display = "block";
     }
   };
 

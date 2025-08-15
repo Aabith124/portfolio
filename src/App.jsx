@@ -267,7 +267,7 @@ function App() {
             </div>
 
             <div className="box">
-              <a href="https://abithportfolio.onrender.com" target="_blank" rel="noopener noreferrer" className="box-link">
+              <a href="https://abithportfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="box-link">
                 <img className="web-image" src="/images/portfolio.png" alt="Portfolio" />
                 <div className="topic">Portfolio</div>
                 <p>

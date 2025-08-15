@@ -112,7 +112,7 @@ function App() {
             <div className="text-one">Hello,</div>
             <div className="text-two">I'm Mohamed Abith</div>
             <div className="text-three">Full Stack Developer</div>
-            <div className="text-four">From Madurai</div>
+            <div className="text-four">From Madurai, Tamil Nadu</div>
           </div>
           <div className="button">
             <button onClick={handleHireMe}>Hire Me</button>

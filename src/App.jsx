@@ -206,7 +206,7 @@ function App() {
 
                 </p>
                 <div className="tech-stack">
-                  <strong>Tech Stack:</strong>  ReactJS
+                  <strong>Tech Stack:</strong>  ReactJS, Spring Boot, PostgreSQL
                 </div>
               </a>
             </div>
